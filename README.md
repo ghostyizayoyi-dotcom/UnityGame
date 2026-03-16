@@ -1,5 +1,7 @@
 # UnityGame
-Unity游戏作品集
+Unity游戏作品集 - 1
+
+游戏名： Jumping Ball
 
 ![游戏截图](Assets/game-demo-start.png)
 ![游戏截图](Assets/game-demo-running.png)
